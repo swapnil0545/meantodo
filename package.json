@@ -1,7 +1,7 @@
 {
   "name": "@swapnil0545/meantodo",
   "name": "meantodo",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "scripts": {
     "start": "node ./bin/www"
   },
@@ -14,5 +14,8 @@
     "morgan": "~1.10.0",
     "serve-favicon": "~2.3.2"
   },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "publishConfig": { 
+	"registry": "https://npm.pkg.github.com/" 
+  },
+  "repository": "https://github.com/swapnil0545/meantodo"
 }
